@@ -1,0 +1,21 @@
+# Points de sauvegarde automatiques de Jupyter
+.ipynb_checkpoints/
+
+# Environnements virtuels Python
+.venv/
+venv/
+env/
+
+# Fichiers compilés Python
+__pycache__/
+*.pyc
+
+# Paramètres locaux de l'éditeur
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Énoncés PDF (à retirer de cette liste si tu veux les publier)
+*.pdf
